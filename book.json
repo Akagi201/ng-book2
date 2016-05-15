@@ -1,0 +1,22 @@
+{
+  "title": "ng-book 2",
+  "description": "Chinese version of ng-book 2",
+  "author": "Akagi201",
+  "language": "zh-hans",
+  "plugins": ["ga", "disqus", "github", "edit-link"],
+  "pluginsConfig": {
+    "ga":{
+      "token": "UA-46663685-13"
+    },
+    "disqus": {
+      "shortName": "ng-book2"
+    },
+    "github": {
+      "url": "https://github.com/Akagi201/ng-book2"
+    },
+    "edit-link": {
+      "base": "https://github.com/Akagi201/ng-book2/edit/master",
+      "label": "Edit This Page"
+    }
+  }
+}
